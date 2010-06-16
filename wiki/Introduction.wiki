@@ -3,7 +3,7 @@
 
 = Introduction =
 
-WebProxy Log package consist of WebProxy Log and WebProxy Log Catcher - both intended to receive, import, store Mikrotik's web-proxy log data and finally, generate reports from those data.
+WebProxy Log package consist of WebProxy Log and WebProxy Log Catcher - intended to receive, import, store Mikrotik's web-proxy log data and finally, generate reports from those data.
 
 
 == WebProxy Log Catcher ==
