@@ -1,4 +1,4 @@
-#summary Just a bit about !WebProxy Log package.
+#summary Just a bit about WebProxy Log package.
 #labels Featured,Phase-Requirements
 
 = Introduction =
