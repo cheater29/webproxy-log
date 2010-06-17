@@ -1,21 +1,21 @@
-#summary Just a bit about WebProxy Log package.
+#summary Just a bit about !WebProxy Log package.
 #labels Featured,Phase-Requirements
 
 = Introduction =
 
-WebProxy Log package consist of WebProxy Log and WebProxy Log Catcher - intended to receive, import, store Mikrotik's web-proxy log data and finally, generate reports from those data.
+!WebProxy Log package consist of !WebProxy Log and !WebProxy Log Catcher - intended to receive, import, store Mikrotik's web-proxy log data and finally, generate reports from those data.
 
 
-== WebProxy Log Catcher ==
+== !WebProxy Log Catcher ==
 
 This module is simple and has no GUI, requires simple configuration and does the following:
-Listens on certain IP address/UDP port for log data which your Mikrotik is trying to send web-proxy logs. Once WebProxy Log Catcher 'catches' the data, it writes that data to a file on your hard drive.
-Each day, new log file is made and new data is written to that new log file. Once log file becomes 'old', WebProxy Log Catcher moves that file to an import location.
+Listens on certain IP address/UDP port for log data which your Mikrotik is trying to send web-proxy logs. Once !WebProxy Log Catcher 'catches' the data, it writes that data to a file on your hard drive.
+Each day, new log file is made and new data is written to that new log file. Once log file becomes 'old', !WebProxy Log Catcher moves that file to an import location.
 
 
-== WebProxy Log ==
+== !WebProxy Log ==
 
-WebProxy Log is a primary program which can import 'old' log files from the import location to it's local database and can generate: surf logs (for a certain surfer, between two dates), top 10 visited servers pie chart, top 10 surfers pie chart.
+!WebProxy Log is a primary program which can import 'old' log files from the import location to it's local database and can generate: surf logs (for a certain surfer, between two dates), top 10 visited servers pie chart, top 10 surfers pie chart.
 
 System Requirements:
 Windows XP, Vista or 7 (x86, x64)
