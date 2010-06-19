@@ -1,15 +1,15 @@
 #labels Featured,Phase-Design
 = Main screen =
-[http://epikz.net/s/vxckg http://epikz.net/p/200/200/vxckg.jpg]
+[http://epikz.net/i/vxckg.jpg http://epikz.net/p/200/200/vxckg.jpg]
 
 = Sample report view =
-[http://epikz.net/s/ucpiv http://epikz.net/p/200/200/ucpiv.jpg]
+[http://epikz.net/i/ucpiv.jpg http://epikz.net/p/200/200/ucpiv.jpg]
 
 = Sample report with active filters view =
-[http://epikz.net/s/nqwez http://epikz.net/p/200/200/nqwez.jpg]
+[http://epikz.net/i/nqwez.jpg http://epikz.net/p/200/200/nqwez.jpg]
 
 = Sample top 10 servers pie-chart =
-[http://epikz.net/s/gpfkt http://epikz.net/p/200/200/gpfkt.jpg]
+[http://epikz.net/i/gpfkt.jpg http://epikz.net/p/200/200/gpfkt.jpg]
 
 = Language select dialog =
-[http://epikz.net/s/nmgfb http://epikz.net/p/200/200/nmgfb.jpg]
+[http://epikz.net/i/nmgfb.jpg http://epikz.net/p/200/200/nmgfb.jpg]
