@@ -1,0 +1,4 @@
+#summary Wiki Help
+#labels Featured
+*Set up*
+ * [http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
