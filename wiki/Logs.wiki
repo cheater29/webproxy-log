@@ -4,7 +4,12 @@
 
 == You'll need ==
  * configured [http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
- * log data for at least one day
+ * log data for at least one day ([http://webproxy-log.googlecode.com/files/log-example.zip download zipped sample log])
  * !WebProxy Log
 
 == !WebProxy Log ==
+ * open !WebProxy Log
+ * go to 'File\Import logs'
+ * click Import
+
+All log files (any file that has 'log' extension) from pre-configured import location will then be read by WebProxy Log, reformatted and stored in local database. Imported log files, since they're stored in database, can be deleted or archived (recommended).
