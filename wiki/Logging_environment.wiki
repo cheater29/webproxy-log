@@ -1,10 +1,10 @@
-#summary One-sentence summary of this page.
+#summary Learn how to set up Logging environment
 #labels Deprecated
 #sidebar Menu
 
-= Details =
+= You'll need =
+ * access to your Mikrotik
+ * WebProxy Log
+ * WebProxy Log Catcher
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Mikrotik configuration ==
