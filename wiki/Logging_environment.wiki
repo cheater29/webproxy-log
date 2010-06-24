@@ -2,9 +2,9 @@
 #labels Deprecated
 #sidebar Menu
 
-= You'll need =
+== You'll need ==
  * access to your Mikrotik
- * WebProxy Log
- * WebProxy Log Catcher
+ * !WebProxy Log
+ * !WebProxy Log Catcher
 
 == Mikrotik configuration ==
