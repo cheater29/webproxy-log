@@ -3,6 +3,8 @@
 #sidebar Help
 
 == You'll need ==
- * access to your Mikrotik
+ * configured [http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
+ * log data for at least one day
  * !WebProxy Log
- * !WebProxy Log Catcher
+
+== !WebProxy Log ==
