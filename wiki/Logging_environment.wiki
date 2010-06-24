@@ -1,6 +1,6 @@
 #summary Learn how to set up Logging environment
 #labels Deprecated
-#sidebar Menu
+#sidebar Help
 
 == You'll need ==
  * access to your Mikrotik
