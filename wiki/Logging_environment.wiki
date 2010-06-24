@@ -1,4 +1,4 @@
-#summary Learn how to set up Logging environment
+#summary Learn to set up Logging environment
 #labels Deprecated
 #sidebar Help
 
@@ -17,13 +17,19 @@ When you're sure that clients will make traffic through proxy, you'll have to se
   * *Name*: !WebProxyLog
   * *Type*: remote
   * *Remote Address*: _enter  here the IP address of the remote computer where !WebProxy Log Catcher will be running_
-  * *Remote Port*: _enter here UDP port of the computer where !WebProxy Log Catcher will be listening_
+  * *Remote Port*: _enter here UDP port of the computer where !WebProxy Log Catcher will be listening - usually for syslog 514_
  * now go to 'System/Logging/Rules'
  * add new rule with following details:
   * *Topics*: web-proxy, !debug
   * *Prefix*: proxy
   * *Action*: !WebProxyLog _(or whatever name you gave to the action)_
 
-*Make sure that UDP port is open both in [http://wiki.mikrotik.com/wiki/Manual:IP/Firewall/Filter Mikrotik's firewall] and in [http://windows.microsoft.com/en-us/windows7/Open-a-port-in-Windows-Firewall remote computer's firewall]!*
+*Make sure that UDP port you specified for remote logging is open both in [http://wiki.mikrotik.com/wiki/Manual:IP/Firewall/Filter Mikrotik's firewall] and in [http://windows.microsoft.com/en-us/windows7/Open-a-port-in-Windows-Firewall remote computer's firewall]!*
 
 == !WebProxy Log Catcher configuration ==
+ * [http://code.google.com/p/webproxy-log/downloads/list download] and install WebProxy Log
+ * run it and settings dialog will pop up right after language selection
+ * configure IP address, UDP port and logs locations
+ * when you apply your configuration, you will be prompted to start !WebProxy Log Catcher - run it
+
+That's it!
