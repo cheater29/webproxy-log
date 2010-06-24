@@ -1,0 +1,8 @@
+#summary Learn to work with logs
+#labels Deprecated
+#sidebar Help
+
+== You'll need ==
+ * access to your Mikrotik
+ * !WebProxy Log
+ * !WebProxy Log Catcher
