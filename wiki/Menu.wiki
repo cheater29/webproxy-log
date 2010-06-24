@@ -1,4 +1,4 @@
 #summary Main menu
 #labels Deprecated
-Set up
+Set up</br>
 *[http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
