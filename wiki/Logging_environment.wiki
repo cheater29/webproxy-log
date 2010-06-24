@@ -28,7 +28,7 @@ When you're sure that clients will make traffic through proxy, you'll have to se
 
 == !WebProxy Log Catcher configuration ==
  * [http://code.google.com/p/webproxy-log/downloads/list download] and install !WebProxy Log package
- * run it and settings dialog will pop up right after language selection
+ * when you run !WebProxy Log for the first time, the settings dialog will pop up right after language selection
  * configure IP address, UDP port and logs locations
  * when you apply your configuration, you will be prompted to start !WebProxy Log Catcher - run it
 
