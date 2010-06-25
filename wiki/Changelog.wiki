@@ -22,10 +22,8 @@
 
 ==== Fixed ====
  * bug when importing empty log file 
- * bug with import and export IP alias list (no 'IP address' and 
-'Alias' in csv file) 
- * bug when Mikrotik logging is configured without prefix or prefix 
-other then ‘logging’ 
+ * bug with import and export IP alias list (no 'IP address' and 'Alias' in csv file) 
+ * bug when Mikrotik logging is configured without prefix or prefix other then ‘logging’ 
 
 ==== Updated ====
  * new and improved importation of a log file 
