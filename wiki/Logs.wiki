@@ -4,7 +4,7 @@
 
 == You'll need ==
  * configured [http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
- * log data for at least one day ([http://webproxy-log.googlecode.com/files/log-example.zip download zipped sample log])
+ * log data for at least one day ([http://webproxy-log.googlecode.com/files/sample-log.zip download zipped sample log])
  * !WebProxy Log
 
 == !WebProxy Log ==
