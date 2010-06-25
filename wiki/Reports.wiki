@@ -2,6 +2,19 @@
 #labels Deprecated
 #sidebar Help
 
-== You'll need ==
+=== You'll need ===
  * !WebProxy Log
  * [http://code.google.com/p/webproxy-log/wiki/Logs imported logs]
+
+=== !WebProxy Log ===
+Once you have [http://code.google.com/p/webproxy-log/wiki/Logs imported logs] and configured [http://code.google.com/p/webproxy-log/wiki/IP_Alias IP aliases], you are ready to generate some report.
+
+To generate a report, first select user from a drop-down list, select from and to dates (this can be done by clicking-and-dragging on the calendar), select some filters, and click 'Generate' button.
+
+Once log is displayed, you can:
+Open a web page directly from the report
+Copy shortcut to add it to the list
+Print the report
+Save the report
+
+Print and Save is available only for 'Basic' and 'Who visited...' reports.
