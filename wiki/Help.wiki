@@ -2,6 +2,7 @@
 #labels Featured
 *Set up*
  * [http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
+ * [http://code.google.com/p/webproxy-log/wiki/IP_Alias IP aliases]
 
 *Work with*
  * [http://code.google.com/p/webproxy-log/wiki/Logs Logs]
