@@ -1,0 +1,69 @@
+#summary List of changes through version
+== 1.5.0.0 beta2 ==
+==== _Changes in !WebProxy Log_ ====
+==== Improved: ====
+ * log importing
+----
+== 1.5.0.0 beta1 ==
+==== _Changes in package_ ====
+==== Added: ====
+ * !WebProxy Log Catcher - module that captures and stores Mikrotik Web Proxy's messages 
+ * updated graphics 
+
+==== _Changes in !WebProxy Log_ ====
+==== Added ====
+ * /stop command line switch - which causes all !WebProxy Log windows to be closed 
+ * new settings dialog which shows only in admin mode, user mode displays 'select database dialog' only 
+ * server filter list - added feature that automatically gets clipboard data so you can easily enter new server to the list (Copy shortcut from report) 
+ * support to split large log files (thanks to G.D.G. Software <http://www.gdgsoft.com/> and their Gsplit) 
+ * top 10 servers pie-chart 
+ * top 10 surfers pie-chart 
+ * delete web page records 
+
+==== Fixed ====
+ * bug when importing empty log file 
+ * bug with import and export IP alias list (no 'IP address' and 
+'Alias' in csv file) 
+ * bug when Mikrotik logging is configured without prefix or prefix 
+other then ‘logging’ 
+
+==== Updated ====
+ * new and improved importation of a log file 
+ * delete records dialog 
+
+==== _Changes in installation_ ====
+==== Added: ====
+ * installation languages 
+
+==== Updated ====
+ * full and user mode options 
+
+==== Known issues ====
+ * log file format is still not checked for the right format (this could be trouble if you're using custom software to capture logs instead of !WebProxy Log Catcher) 
+ * !WebProxy Log Catcher can only run with user logged on, cannot be installed as a service 
+ * report can only be generated if from and to dates are within same year
+----
+
+== 1.0.0.0 beta5 ==
+==== Fixed ====
+ * if using one of import switches on empty configuration - no source defined error message is displayed 
+ * fixed "day names" error with non-english languages on report generating (thanks to Pujo)
+----
+== 1.0.0.0 beta4 ==
+==== Added ====
+ * support for reading unix-formatted log files (thanks to Pujo)
+ * international support for date separators (thanks to Pujo)
+----
+== 1.0.0.0 beta3 ==
+==== Added ====
+ * progress when reading dates on main screen (right after startup) 
+ * command line switches (/i and /import - opens !WebProxy log, imports log files, and exits the program silently) 
+ * option to delete all records for certain user 
+
+==== Fixed ====
+ * error in case generating report with activated empty filter list 
+ * bug when creating database when it was unplanned in certain scenarios 
+
+==== Know issues ====
+ * Will perform with error if you try to use /i or /import switches before first manual log import 
+ * Unable to read log files larger than 10 MB
