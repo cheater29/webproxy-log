@@ -2,12 +2,12 @@
 #labels Deprecated
 #sidebar Help
 
-== You'll need ==
+=== You'll need ===
  * configured [http://code.google.com/p/webproxy-log/wiki/Logging_environment Logging environment]
  * log data for at least one day ([http://webproxy-log.googlecode.com/files/sample-log.zip download zipped sample log])
  * !WebProxy Log
 
-== !WebProxy Log ==
+=== !WebProxy Log ===
  * open !WebProxy Log
  * go to 'File\Import logs'
  * click Import
