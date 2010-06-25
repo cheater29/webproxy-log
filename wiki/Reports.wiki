@@ -1,0 +1,7 @@
+#summary Learn to work with reports
+#labels Deprecated
+#sidebar Help
+
+== You'll need ==
+ * !WebProxy Log
+ * [http://code.google.com/p/webproxy-log/wiki/Logs imported logs]
