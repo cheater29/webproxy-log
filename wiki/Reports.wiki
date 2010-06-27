@@ -35,6 +35,6 @@ To generate this report go to 'Reports/Who visited...', in the dialog enter what
 
 This reports show a pie-charts that represent how many times each server has been visited or which user has visited most pages.
 
-For 'Top 10 servers', active filters are valid (eg. filter out unwanted servers in your report).
+For 'Top 10 servers' report you can use Site filter (eg. filter out unwanted servers in your report).
 
 To generate these reports, go to 'Reports/Top 10 servers' or 'Reports/Top 10 surfers'.
