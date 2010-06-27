@@ -1,0 +1,8 @@
+#summary What do some options mean
+
+=== Backup database ===
+
+'Backup database' option can be activated at some points when you're uncertain of some actions (eg. when deleting records). When 'Backup database' option is selected, a copy of your database file will be made in !WebProxy Log's configuration directory.
+
+
+=== Optimize ===
