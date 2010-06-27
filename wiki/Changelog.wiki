@@ -1,4 +1,9 @@
 #summary List of changes through version
+== 1.5.0.0 beta4 ==
+==== _Changes in !WebProxy Log_ ====
+==== Fixed: ====
+ * bug where description text in ‘General settings’ dialog wouldn’t fit in Indonesian
+----
 == 1.5.0.0 beta3 ==
 ==== _Changes in !WebProxy Log_ ====
 ==== Further improved: ====
