@@ -1,29 +1,48 @@
 #summary List of changes through version
 == 1.5.0.0 beta4 ==
+
 ==== _Changes in !WebProxy Log_ ====
+
 ==== Fixed: ====
  * bug where description text in ‘General settings’ dialog wouldn’t fit in Indonesian
+
+==== Added: ====
+ * black frame around flag image in 'Language select' dialog
 ----
+
+
 == 1.5.0.0 beta3 ==
+
 ==== _Changes in !WebProxy Log_ ====
+
 ==== Further improved: ====
  * log importing
 ==== _Changes in installation_ ====
+
 ==== Added: ====
  * the option to create startup icon for !WebProxy Log Catcher
 ----
+
+
 == 1.5.0.0 beta2 ==
+
 ==== _Changes in !WebProxy Log_ ====
+
 ==== Improved: ====
  * log importing
 ----
+
+
 == 1.5.0.0 beta1 ==
+
 ==== _Changes in package_ ====
+
 ==== Added: ====
  * !WebProxy Log Catcher - module that captures and stores Mikrotik Web Proxy's messages 
  * updated graphics 
 
 ==== _Changes in !WebProxy Log_ ====
+
 ==== Added ====
  * /stop command line switch - which causes all !WebProxy Log windows to be closed 
  * new settings dialog which shows only in admin mode, user mode displays 'select database dialog' only 
@@ -43,6 +62,7 @@
  * delete records dialog 
 
 ==== _Changes in installation_ ====
+
 ==== Added: ====
  * installation languages 
 
@@ -56,16 +76,22 @@
 ----
 
 == 1.0.0.0 beta5 ==
+
 ==== Fixed ====
  * if using one of import switches on empty configuration - no source defined error message is displayed 
  * fixed "day names" error with non-english languages on report generating (thanks to Pujo)
 ----
+
+
 == 1.0.0.0 beta4 ==
+
 ==== Added ====
  * support for reading unix-formatted log files (thanks to Pujo)
  * international support for date separators (thanks to Pujo)
 ----
+
 == 1.0.0.0 beta3 ==
+
 ==== Added ====
  * progress when reading dates on main screen (right after startup) 
  * command line switches (/i and /import - opens !WebProxy log, imports log files, and exits the program silently) 
