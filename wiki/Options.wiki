@@ -14,6 +14,6 @@ Optimization is a process which cleans your database of unneeded records (the de
 === Insecure import ===
 'Insecure import' is actually not so insecure and can't lead to database corruption. It's only a different approach when writing data to the database. 
 
-When you have this option turned off, !WebProxy Log will wait for database to finish writing each line of data and then send new line of data to be written. That is not such a big deal if you have small log files (up to 2 MB daily), but on large log files (above 5 MB daily) the import process takes a lot to finish. 
+When you have this option turned off, !WebProxy Log will wait for database to finish writing each line of data and then send new line of data to be written. That is not such a big deal if you have small log files (up to 2 MB daily), but on large log files (above 5 MB daily) the import process takes a log time to finish. 
 
 Therefore you can use 'insecure import' so !WebProxy Log will send all the lines of data to the database without waiting each of them to be actually written. This 'insecure import' drastically speeds up import process.
