@@ -8,3 +8,5 @@
  * [http://code.google.com/p/webproxy-log/wiki/Logs Logs]
  * [http://code.google.com/p/webproxy-log/wiki/Logs#Deleting_records Delete records]
  * [http://code.google.com/p/webproxy-log/wiki/Reports Reports]
+
+*Options explained*
