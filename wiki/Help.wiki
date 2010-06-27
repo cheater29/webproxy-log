@@ -10,3 +10,5 @@
  * [http://code.google.com/p/webproxy-log/wiki/Reports Reports]
 
 *Options explained*
+ * [http://code.google.com/p/webproxy-log/wiki/Options#Backup_database Backup database]
+ * [http://code.google.com/p/webproxy-log/wiki/Options#Optimize Optimize]
