@@ -9,6 +9,9 @@
 
 ==== Updated: ====
  * black frame around flag image in 'Language select' dialog
+
+==== Added: ====
+ * 'Online help' and 'Changelog' under menu 'Help'
 ----
 
 
