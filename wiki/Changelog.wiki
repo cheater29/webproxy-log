@@ -5,10 +5,10 @@
 
 ==== Fixed: ====
  * bug where description text in ‘General settings’ dialog wouldn’t fit in Indonesian
- * grid list behavior in 'IP aliases' dialog
 
 ==== Updated: ====
  * black frame around flag image in 'Language select' dialog
+ * grid list behavior in 'IP aliases' dialog
 
 ==== Added: ====
  * 'Online help' and 'Changelog' under menu 'Help'
