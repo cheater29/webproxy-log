@@ -5,6 +5,7 @@
 
 ==== Fixed: ====
  * bug where description text in ‘General settings’ dialog wouldn’t fit in Indonesian
+ * bug where ‘Internet traffic’ report did not show day separation, but merged two days within same day
 
 ==== Updated: ====
  * black frame around flag image in 'Language select' dialog
