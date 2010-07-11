@@ -53,7 +53,7 @@
  * /stop command line switch - which causes all !WebProxy Log windows to be closed 
  * new settings dialog which shows only in admin mode, user mode displays 'select database dialog' only 
  * server filter list - added feature that automatically gets clipboard data so you can easily enter new server to the list (Copy shortcut from report) 
- * support to split large log files (thanks to G.D.G. Software <http://www.gdgsoft.com/> and their Gsplit) 
+ * support to automatically split large log files (thanks to G.D.G. Software http://www.gdgsoft.com and their Gsplit) 
  * top 10 servers pie-chart 
  * top 10 surfers pie-chart 
  * delete web page records 
