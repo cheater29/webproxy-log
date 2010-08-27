@@ -1,4 +1,13 @@
 #summary List of changes through version
+
+== 1.5.0.2 ==
+
+==== _Changes in !WebProxy Log_ ====
+
+==== Added: ====
+ * Czech language (thanks to Alen Bajo)
+----
+
 == 1.5.0.1 ==
 
 ==== _Changes in !WebProxy Log_ ====
