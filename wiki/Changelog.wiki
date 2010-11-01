@@ -11,7 +11,7 @@
 ==== _Changes in !WebProxy Log Catcher_ ====
 ==== Added: ====
  * 'Configure' option to the tray icon
- * Configuration dialog (once you click 'Configure')
+ * Configuration dialog (opens once you click 'Configure')
 ----
 
 == 1.5.0.1 ==
