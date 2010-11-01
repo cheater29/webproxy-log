@@ -35,6 +35,6 @@ http://lh6.ggpht.com/_glRSY7BdJS4/TM3QcF50nzI/AAAAAAAAAjU/Sjm87KkB1ws/s800/rule.
  * when you run !WebProxy Log Catcher for the first time, the settings dialog will pop up
 http://lh5.ggpht.com/_glRSY7BdJS4/TM3QcMN37OI/AAAAAAAAAjQ/q9qW5zOVj8w/s800/config.png
  * configure IP address, UDP port and logs locations
- * when you apply your configuration, you will be prompted to start !WebProxy Log Catcher - run it
+ * once you apply configuration, you are ready to start!
 
 That's it!
