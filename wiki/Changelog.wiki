@@ -6,6 +6,12 @@
 
 ==== Added: ====
  * Czech language (thanks to Alen Bajo)
+
+
+==== _Changes in !WebProxy Log Catcher_ ====
+==== Added: ====
+ * 'Configure' option to the tray icon
+ * Configuration dialog (once you click 'Configure')
 ----
 
 == 1.5.0.1 ==
