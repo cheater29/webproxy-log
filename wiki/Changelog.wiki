@@ -10,6 +10,9 @@
 ==== Fixed: ====
  * bug where ‘Delete records’ would ask to delete 0 records
 
+==== Updated: ====
+ * reading dates with log entries is a bit faster
+
 
 ==== _Changes in !WebProxy Log Catcher_ ====
 ==== Added: ====
