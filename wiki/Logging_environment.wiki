@@ -32,7 +32,7 @@ http://lh6.ggpht.com/_glRSY7BdJS4/TM3QcF50nzI/AAAAAAAAAjU/Sjm87KkB1ws/s800/rule.
 
 === !WebProxy Log Catcher configuration ===
  * [http://code.google.com/p/webproxy-log/downloads/list download] and install !WebProxy Log package
- * when you run !WebProxy Log Catcher for the first time, the settings dialog will pop up
+ * when you run !WebProxy Log Catcher for the first time, the settings dialog will pop up (or you can select 'Cofigure' option by right-clicking !WebProxy Log Catcher's icon in system tray)
 http://lh5.ggpht.com/_glRSY7BdJS4/TM3QcMN37OI/AAAAAAAAAjQ/q9qW5zOVj8w/s800/config.png
  * configure IP address, UDP port and logs locations (where IP addres and UDP port are located on compter where !WebProxy Log Catcher is running - the same IP address and UDP port you specified for the remote computer in you Mikrotik)
  * once you apply configuration, you are ready to start!
