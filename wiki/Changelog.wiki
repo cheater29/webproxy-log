@@ -7,6 +7,9 @@
 ==== Added: ====
  * Czech language (thanks to Alen Bajo)
 
+=== Fixed: ===
+ * bug where ‘Delete records’ would ask to delete 0 records
+
 
 ==== _Changes in !WebProxy Log Catcher_ ====
 ==== Added: ====
