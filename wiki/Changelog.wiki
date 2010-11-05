@@ -9,6 +9,7 @@
 
 ==== Fixed: ====
  * bug where ‘Delete records’ would ask to delete 0 records
+ * bug where saved/not saved message hasn’t been displayed after exporting IP aliases list
 
 ==== Updated: ====
  * communication with databse is a bit faster
