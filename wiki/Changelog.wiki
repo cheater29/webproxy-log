@@ -19,6 +19,11 @@
 ==== Added: ====
  * 'Configure' option to the tray icon
  * Configuration dialog (opens once you click 'Configure')
+
+
+==== _Changes in Installation_ ====
+==== Added: ====
+ * ‘Tell us what you think’ at uninstall
 ----
 
 == 1.5.0.1 ==
