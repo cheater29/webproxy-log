@@ -1,5 +1,14 @@
 #summary List of changes through version
 
+== 2.0.0.0 ==
+
+==== _Changes in !WebProxy Log_ ====
+
+==== Fixed: ====
+ * <a href='http://code.google.com/p/webproxy-log/issues/detail?id=12' target='_BLANK'>bug #12</a> - buttons displacement
+----
+
+
 == 1.5.0.2 ==
 
 ==== _Changes in !WebProxy Log_ ====
