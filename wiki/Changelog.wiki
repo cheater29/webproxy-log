@@ -17,8 +17,8 @@
  * Czech language (thanks to Alen Bajo)
 
 ==== Fixed: ====
- * bug where ‘Delete records’ would ask to delete 0 records
- * bug where saved/not saved message hasn’t been displayed after exporting IP aliases list
+ * <a href='http://code.google.com/p/webproxy-log/issues/detail?id=10' target='_BLANK'>bug #10</a> - ‘Delete records’ would ask to delete 0 records
+ * <a href='http://code.google.com/p/webproxy-log/issues/detail?id=8' target='_BLANK'>bug #8</a> - saved/not saved message hasn’t been displayed after exporting IP aliases list
 
 ==== Updated: ====
  * communication with databse is a bit faster
