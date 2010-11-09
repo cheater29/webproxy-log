@@ -5,7 +5,7 @@
 ==== _Changes in !WebProxy Log_ ====
 
 ==== Fixed: ====
- * <a href='http://code.google.com/p/webproxy-log/issues/detail?id=12' target='_BLANK'>bug #12</a> - buttons displacement
+ * <a href='/p/webproxy-log/issues/detail?id=12' target='_BLANK'>bug #12</a> - buttons displacement
 ----
 
 
