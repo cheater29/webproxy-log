@@ -7,6 +7,11 @@
 ==== Fixed: ====
  * <a href='/p/webproxy-log/issues/detail?id=12' target='_BLANK'>bug #12</a> - buttons displacement
  * <a href='/p/webproxy-log/issues/detail?id=13' target='_BLANK'>bug #13</a> - program startup - in certain scenarios program hangs on error when checking dates with entries
+
+==== _Changes in !WebProxy Log Catcher_ ====
+
+==== Fixed: ====
+ * <a href='/p/webproxy-log/issues/detail?id=14' target='_BLANK'>bug #14</a> - WebProxy Log Catcher could not create initial configuration
 ----
 
 
