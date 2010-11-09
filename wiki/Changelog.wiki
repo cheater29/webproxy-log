@@ -6,6 +6,7 @@
 
 ==== Fixed: ====
  * <a href='/p/webproxy-log/issues/detail?id=12' target='_BLANK'>bug #12</a> - buttons displacement
+ * <a href='/p/webproxy-log/issues/detail?id=13' target='_BLANK'>bug #13</a> - program startup - in certain scenarios program hangs on error when checking dates with entries
 ----
 
 
@@ -17,8 +18,8 @@
  * Czech language (thanks to Alen Bajo)
 
 ==== Fixed: ====
- * <a href='http://code.google.com/p/webproxy-log/issues/detail?id=10' target='_BLANK'>bug #10</a> - ‘Delete records’ would ask to delete 0 records
- * <a href='http://code.google.com/p/webproxy-log/issues/detail?id=8' target='_BLANK'>bug #8</a> - saved/not saved message hasn’t been displayed after exporting IP aliases list
+ * <a href='/p/webproxy-log/issues/detail?id=10' target='_BLANK'>bug #10</a> - ‘Delete records’ would ask to delete 0 records
+ * <a href='/p/webproxy-log/issues/detail?id=8' target='_BLANK'>bug #8</a> - saved/not saved message hasn’t been displayed after exporting IP aliases list
 
 ==== Updated: ====
  * communication with databse is a bit faster
