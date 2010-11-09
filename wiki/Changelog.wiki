@@ -11,7 +11,7 @@
 ==== _Changes in !WebProxy Log Catcher_ ====
 
 ==== Fixed: ====
- * <a href='/p/webproxy-log/issues/detail?id=14' target='_BLANK'>bug #14</a> - WebProxy Log Catcher could not create initial configuration
+ * <a href='/p/webproxy-log/issues/detail?id=14' target='_BLANK'>bug #14</a> - !WebProxy Log Catcher could not create initial configuration
 ----
 
 
