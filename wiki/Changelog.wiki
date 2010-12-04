@@ -1,11 +1,12 @@
 #summary List of changes through version
+#labels Featured
 
 == 1.5.0.4 ==
 
 ==== _Changes in !WebProxy Log_ ====
 
 ==== Added: ====
- * <a href='/p/webproxy-log/issues/detail?id=15' target='_BLANK'>bug #12</a> - Added update checker in Help menu
+ * <a href='/p/webproxy-log/issues/detail?id=15' target='_BLANK'>bug #15</a> - Added update checker in Help menu
 ----
 
 
