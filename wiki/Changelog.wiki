@@ -7,6 +7,9 @@
 
 ==== Added: ====
  * <a href='/p/webproxy-log/issues/detail?id=15' target='_BLANK'>bug #15</a> - Added update checker in Help menu
+ * <a href='/p/webproxy-log/issues/detail?id=17' target='_BLANK'>bug #17</a> - Menu icons have been updated
+ * <a href='/p/webproxy-log/issues/detail?id=18' target='_BLANK'>bug #18</a> - WebProxy Log starts faster
+
 ----
 
 
